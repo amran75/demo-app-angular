@@ -1,4 +1,4 @@
-# Demo-Angular-Application
+# Demo-APP-ANGULAR
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2. Angular Universal is also used on this application. There are a couple of reasons for using Angular Universal in our project, but maybe the most common reason is to improve the startup performance of our application.
 
@@ -15,7 +15,7 @@ Run `npm run build:ssr` to build the project. The build artifacts will be stored
 
 ## main.js
 
-main.js file path is `dist/izaanapp/server/main.js` 
+main.js file is located at `dist/izaanapp/server/main.js` 
 
 
 ## Code scaffolding
